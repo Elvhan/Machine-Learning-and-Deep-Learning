@@ -43,6 +43,8 @@ This project aims to predict house prices using a Multilayer Perceptron (MLP) mo
 - **Model Building:** Develop a deep learning model with MLP architecture to predict house prices.
 - **Model Evaluation:** Assess the model's predictive performance.
 
+---
+
 ## Case 4: Deep Learning (Supervised: Classification)
 ### Credit Fraud Detection using Multilayer Perceptron
 
