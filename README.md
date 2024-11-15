@@ -1,5 +1,5 @@
 # Foundation-for-Artificial-Intelligence
-This is the second team project at Startup Campus
+This repository contains the second team project at Startup Campus
 
 ## Case 1: Machine Learning (Supervised: Classification) 
 ### Banking Churn Prediction
